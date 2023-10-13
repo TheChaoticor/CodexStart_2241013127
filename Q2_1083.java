@@ -1,3 +1,12 @@
+/*
+ *Name: Arpit Mishra
+ *Reg_No: 2241013127
+ * PS LINK: https://cses.fi/problemset/task/1083
+ */
+
+
+
+
 import java.util.Scanner;
 
 public class Q2_1083 {
